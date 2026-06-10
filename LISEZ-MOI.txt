@@ -1,0 +1,12 @@
+Ce dossier est destiné à vos images.
+
+Fichiers à ajouter :
+- logo.png          → Votre logo KARBOLOG (format PNG transparent, 200x60px recommandé)
+- logo-white.png    → Version blanche du logo (pour le footer)
+- favicon.ico       → Favicon (32x32px)
+- og-image.jpg      → Image pour les réseaux sociaux (1200x630px)
+
+Pour les photos :
+- fleet.jpg         → Photo de votre flotte de véhicules
+- team.jpg          → Photo de votre équipe
+- warehouse.jpg     → Photo de votre entrepôt / dépôt
